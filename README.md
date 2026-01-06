@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **igorbrito25/igorbrito25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,10 +12,7 @@
 
 ---
 
-## ⚡ Meu Parceiro Pokémon
-<div align="center">
-  <img height="200" src="https://i.imgur.com/4M7IWwB.gif" alt="Pikachu"/>
-</div>
+[![igorbrito25's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorbrito25)](https://github.com/igorbrito25/github-readme-stats)
 
 ---
 
