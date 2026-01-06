@@ -1,73 +1,43 @@
-<!--
-**igorbrito25/igorbrito25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Olá👋Meu Nome é Igor</h1>
 
-<!-- Banner Pokémon -->
-<img width="100%" src="https://i.imgur.com/q1Zc5mm.gif"/>
+###
 
-# 👋 Olá! Eu sou o Igor Brito
-
-- 📘 Estudante de programação  
-- 💼 Focado em desenvolvimento e automações  
-- 🚀 Sempre buscando aprender coisas novas  
-
----
-
-[![igorbrito25's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorbrito25)](https://github.com/igorbrito25/github-readme-stats)
-
----
-
-## 🧢 Sobre mim – Estilo Treinador Pokémon
-Bem-vindo ao meu laboratório!  
-Sou apaixonado por tecnologia, dados e evolução contínua — igual um treinador em busca de novos desafios.
-
-<img align="right" width="200" src="https://i.imgur.com/Rf4Z5rA.gif" alt="Ash & Pikachu"/>
-
-Aqui no meu GitHub você vai encontrar:
-- Projetos de automação  
-- Dashboards  
-- Scripts Python  
-- Estudos e experimentos  
-
----
-
-## 🧩 Minhas Habilidades (Tipo: Dados)
-<div style="display: inline_block"><br/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img height="50" src="https://i.imgur.com/WNe7T3o.png" alt="Power BI"/>
-  <img height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/excel/excel-original.svg">
-</div>
-
-- ⚡ **Power BI** — Visualizações super eficazes  
-- 🧪 **Excel** — Fórmulas, automações e estratégias  
-- 🐍 **Python** — Scripts e análises poderosas  
-
----
-
-## 🔥 Meus Pokémon Favoritos
 <div align="center">
-  <img height="160" src="https://i.imgur.com/sy8bKB3.gif" alt="Charizard"/>
-  <img height="160" src="https://i.imgur.com/5oZf6sF.gif" alt="Pikachu correndo"/>
-  <img height="160" src="https://i.imgur.com/iiA1JYm.gif" alt="Squirtle"/>
+  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="60" alt="mysql logo"  />
 </div>
 
----
+###
 
-## 📊 Estatísticas do Treinador
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=tokyonight"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEUUSUARIO&layout=compact&theme=tokyonight"/>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
+  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
 </div>
 
----
+###
 
-## 🔍 Onde me encontrar 
-- 📧 **Email:** COLOQUE AQUI  
-- 💼 **LinkedIn:** COLOQUE AQUI  
-- 🌐 **Portfólio:** COLOQUE AQUI  
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=igorbrito25&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=igorbrito25&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
----
+###
 
-## 🎮 Finalizando…
-> “Não importa o quão difícil seja a batalha. Com determinação e treino constante, todos podem evoluir.”
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/igorbrito25/igorbrito25/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/igorbrito25/igorbrito25/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/igorbrito25/igorbrito25/output/pacman-contribution-graph.svg">
+</picture>
 
-<img width="100%" src="https://i.imgur.com/2n7Kc8U.gif"/>
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=igorbrito25.igorbrito25&"  />
+</div>
+
+###
