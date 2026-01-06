@@ -64,9 +64,6 @@ Transformo dados em insights e dashboards que apoiam decisões de negócio.
   <img src="https://streak-stats.demolab.com?user=igorbrito25&theme=github-dark-blue&border_radius=6" height="150"/>
 </div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=igorbrito25&theme=flat&row=1&column=6&margin-w=8"/>
-</div>
 
 ---
 
